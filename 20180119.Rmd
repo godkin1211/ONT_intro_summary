@@ -21,6 +21,11 @@ output:
 
 ![](img/sequencing.jpg)
 
+## Different regions return different signals
+
+![](img/adapter.png)
+
+
 ## Characteristics of nanopore sequencing technologies
 
 + Real-time data analysis:data analysis  no fixed run-time
@@ -100,3 +105,32 @@ output:
 + Live & local (Win-bases Desktop: MinKNOW+Albacore)
 + Local & offline (Win-base Desktop: MinKNOW+Albacore)
 + Cloud (EPI2ME)
+
+# The future of ONT sequencer: real-time data analysis & long read sequencing
+
+## Integration of hardwares and softwares (1/3)
+
++ With Raspberry Pi 
+
+<img src="img/application_1.png" width="800">
+
+## Integration of hardwares and softwares (2/3)
+
++ With SmartPhone
+
+<img src="img/application_2.png" width="800">
+
+
+## Integration of hardwares and softwares (3/3)
+
++ On FPGA (News from [BioIT World](http://www.bio-itworld.com/2016/09/29/oxford-nanopore-announces-new-pores-kits-and-updates-on-projects.aspx))
+
+<img src="img/application_3.png" width="800">
+
+
+## The ultimate goal is to be a part of Iot (Internet of thing)
+
+![](img/application.png)
+
+
+# Thanks for your attention
